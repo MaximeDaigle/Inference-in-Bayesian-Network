@@ -1,6 +1,6 @@
 # Inference-in-Bayesian-Network
 
-Use two methods to approximate inference in bayesian networks, rejection sampling and likelihood weighting.
+Use two methods of approximate inference in bayesian networks, rejection sampling and likelihood weighting.
 
 > Rejection sampling is a general method for producing samples from a hard-to-sample distribution given an easy-to-sample distribution. In its simplest form, it can be used to compute conditional probabilities—that is, to determine P(X|e).
 
